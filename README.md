@@ -4,16 +4,22 @@ This project analyzes the London Bike Sharing dataset from Kaggle, focusing on d
 
 Data Preparation: Gathering, exploring, and cleaning the dataset.
 Visualization Development: Creating insights with various Tableau visualizations, including:
+
 Moving Average Trends
+
 Total Rides Analysis
+
 Temperature vs Wind Speed Heatmap
+
 Weather and Hourly Trends
+
 Dashboard Creation: Formatting worksheets and assembling an interactive Tableau dashboard
 
 
 Tools Used: Python (for data preprocessing), Tableau (for visualization & dashboarding).
+# Sample Images
 
-#Sample Images
+
 ![image](https://github.com/user-attachments/assets/eca13985-8429-47aa-b189-100b2768b6ff)
 
 ![image](https://github.com/user-attachments/assets/cb088b48-1fb6-4d0f-ab9c-4ca5fa4cf311)
